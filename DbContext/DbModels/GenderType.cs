@@ -4,5 +4,6 @@ namespace WebProject_NetFramework.DbContext.DbModels
 {
     public class GenderType : BaseTypeValue
     {
+        //public string gendertype;
     }
 }

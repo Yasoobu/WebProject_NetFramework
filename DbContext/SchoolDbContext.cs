@@ -6,7 +6,7 @@ namespace WebProject_NetFramework.DbContext
 {
     public class SchoolDbContext : System.Data.Entity.DbContext
     {
-        public SchoolDbContext() : base("name=SchoolDatabase")
+        public SchoolDbContext() : base("name=SchoolDBConnectionString")
         {
            // Database.SetInitializer(
             //    new MigrateDatabaseToLatestVersion<SchoolDbContext, Configuration>());

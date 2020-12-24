@@ -1125,8 +1125,8 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Img\ACM.jpg" />
-    <Content Include="Img\Banner.jpg" />
     <Content Include="Img\building.jpg" />
+    <Content Include="Img\civil_dept.jpg" />
     <Content Include="Img\CSS.jpg" />
     <Content Include="Img\Department.jpg" />
     <Content Include="Img\Final.jpg" />
@@ -1640,6 +1640,11 @@
     <Content Include="Img\img\widgets\shop\07.jpg" />
     <Content Include="Img\img\widgets\shop\08.jpg" />
     <Content Include="Img\img\widgets\shop\09.jpg" />
+    <Content Include="Img\logo1.png" />
+    <Content Include="Img\logo1a.jpg" />
+    <Content Include="Img\logo1aa.png" />
+    <Content Include="Img\Staff\director.jpg" />
+    <Content Include="Img\Staff\hod.jpg" />
     <Content Include="Scripts\bootstrap-timepicker.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -2028,7 +2033,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Img\Staff\" />
     <Folder Include="Scripts\esm\" />
     <Folder Include="Scripts\src\methods\" />
     <Folder Include="Scripts\src\modifiers\" />
