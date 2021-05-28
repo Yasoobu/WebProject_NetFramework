@@ -17,3 +17,5 @@ The admins can set boundaries and limitations to the account options for student
 
 One catch is that if you run the application on a new system, you would need to run the admin interface first and set the values for dropdown options in the Student accounts.
 Only after this students will be able to access their interfaces. This is done to keep generality as in future we could have to design a similar application for a different university so we don't have to change the code evreytime and are able to change information from the admin interface.
+
+Please find attached screenshots of the application in the folder named "Screenshots" for further clarity.
