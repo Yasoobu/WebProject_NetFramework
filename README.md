@@ -1,6 +1,6 @@
 # WebProject_NetFramework
 Online Admission System - AsaanApply. This is a Web Development Project developed in Asp.NET Framework MVC. 
-To run this application, you just need a stable version of android studio, perferably 2015 or above and a browser e.g. Google Chrome.
+To run this application, you just need a stable version of android studio, perferably 2015 or above and a browser e.g. Google Chrome. Just open the sln file in android studio and click run or press Ctrl + F5.
 
 The app has a homepage where information of the university is available and different tabs which user can click to perform different actions.
 The user can sign sign up for registration.
